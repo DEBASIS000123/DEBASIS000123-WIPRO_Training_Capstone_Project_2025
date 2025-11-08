@@ -149,7 +149,7 @@ Mon Nov  3 21:01:23 2025
 ## 👤 Author
 **Debasis Mishra**  
 Developed under **Wipro TalentNext Capstone Project 2025**  
-📧 debasismishra000123@.com  
+📧 debasismishra000123@gmail.com  
 🔗 [GitHub Profile](https://github.com/DEBASIS000123)
 
 ---
