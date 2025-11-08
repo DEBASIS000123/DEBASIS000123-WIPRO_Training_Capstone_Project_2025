@@ -158,7 +158,6 @@ Developed under **Wipro TalentNext Capstone Project 2025**
 This project is intended for educational and demonstration purposes only.  
 All rights reserved © 2025.
 
----
 ```
 
 
